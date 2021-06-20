@@ -1,4 +1,4 @@
-FROM debian:9
+FROM ubuntu:latest
 
 # labels
 ARG BUILD_DATE
