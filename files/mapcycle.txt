@@ -1,0 +1,21 @@
+; Define the cycle that maps will loop through
+
+de_inferno
+de_dust
+de_dust2
+aa_dima2
+aim_map_2010
+aim_headshot2
+de_minidust2
+de_mirage
+de_nuke
+de_train
+aim_ak-colt
+35hp_2
+aim_ak-colt
+aim_map_2010
+aim_map_usp
+awp_india
+cs_deathmatch_2005c
+cs_deathmatch-final
+de_dust2_2x2
